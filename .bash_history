@@ -30,3 +30,9 @@ git commit "Corregido error de ortografia en boton #1"
 git commit 'Corregido error de ortografia en boton #1'
 git commit 'Corregido error de ortografia en boton' #1
 git init
+git add .
+git commit -m "Agregar ya funciona" #2
+git remote add origin https://github.com/L-Galindo/EP3-Galindo
+git remote push master
+git push origin master
+git commit -m "Error ortografico" #1
