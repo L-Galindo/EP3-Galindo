@@ -36,3 +36,7 @@ git remote add origin https://github.com/L-Galindo/EP3-Galindo
 git remote push master
 git push origin master
 git commit -m "Error ortografico" #1
+git add .
+git commit -m "Correccion de error de ortografia" #1
+git remote add origin https://github.com/L-Galindo/EP3-Galindo
+git push origin master
